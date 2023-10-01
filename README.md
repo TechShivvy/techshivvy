@@ -24,17 +24,19 @@ TypeScript     5 mins          -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
-  
+
   </details>
     
-  <!-- <table>
+  <table>
     <tr>
       <td>
-        <img src="https://lanyard.kyrie25.me/api/788746150828179456?bg=transparent&gradient=DD6387-DD6387&waveSpotifyColor=DD6387&waveColor=DD6387" alt="Tom's Lanyard Status">
+        <img src="https://lanyard.kyrie25.me/api/776722539211653151?bg=transparent&gradient=DD6387-DD6387&waveSpotifyColor=DD6387&waveColor=DD6387" alt="Tom's Lanyard Status">
       </td>
     </tr>
-  </table> -->
-  
+  </table>
+
+  <!-- [![Discord Presence](https://lanyard.kyrie25.me/api/776722539211653151)](https://discord.com/users/776722539211653151) -->
+
   <table>
     <tr>
       <td>
@@ -58,7 +60,7 @@ TypeScript     5 mins          -------------------------   00.40 %
     <img src="/spotify.png" alt="My Spotify Profile">
   </a>
 
-  `(my pins include projects I maintain)` -->
+`(my pins include projects I maintain)` -->
 
 </div>
 
