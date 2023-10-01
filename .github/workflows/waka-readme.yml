@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "1 * * * *"
+    - cron: "* * * * *"
 
 jobs:
   update-readme:
@@ -17,7 +17,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: all_time
-          SHOW_TIME:	true
+          SHOW_TIME: true
           SHOW_TOTAL: true
           BLOCKS: ->
           CODE_LANG: lua
