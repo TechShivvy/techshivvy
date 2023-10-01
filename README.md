@@ -43,7 +43,8 @@ TypeScript     5 mins          -------------------------   00.40 %
         <img src="https://github-readme-stats-techshivvys-projects.vercel.app/api?username=TechShivvy&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile" alt="Stats">
       </td>
       <td>
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=2gshy2wa8eeq8clpv8sgghh4p&cover_image=true&theme=default&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true" style="height: 380px;" /> 
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=2gshy2wa8eeq8clpv8sgghh4p&cover_image=true&theme=default&show_offline=true&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true" style="height: 380px;" /> 
+        <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2gshy2wa8eeq8clpv8sgghh4p&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2gshy2wa8eeq8clpv8sgghh4p&redirect=true) -->
       </td>
     </tr>
   </table>
