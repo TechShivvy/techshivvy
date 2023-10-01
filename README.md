@@ -1,6 +1,8 @@
 <div align="center">
   <h1><br />Hey, I'm Shivi</h1>
-  ![views](https://komarev.com/ghpvc/?username=techshivvy&style=flat-square&color=ff69b4)
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=techshivvy&style=for-the-badge">
+</a>
   <details>
     <summary>wakatime</summary>
 
