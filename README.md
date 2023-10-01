@@ -4,9 +4,9 @@
   <details>
     <summary>wakatime</summary>
 
-    <!--START_SECTION:waka-->
+  <!--START_SECTION:waka-->
 
-    <!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
   </details>
   <table>
     <tr>
