@@ -1,14 +1,16 @@
 <div align="center">
   <h1><br />Hey, I'm Shivi</h1>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=techshivvy&style=for-the-badge">
-</a>
+    <img
+      src="https://komarev.com/ghpvc/?username=techshivvy&style=for-the-badge&color=9b83ee&label=STALKERS"
+      alt="techshivvy-profile-views"
+      height="30px"
+    />
   <details>
     <summary>wakatime</summary>
 
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
-  <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
   </details>
   <table>
     <tr>
