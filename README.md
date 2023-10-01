@@ -1,7 +1,7 @@
 <div align="center">
   <h1><br />Hey, I'm Shivi</h1>
     <img
-      src="https://komarev.com/ghpvc/?username=techshivvy&style=for-the-badge&color=9b83ee&label=STALKERS"
+      src="https://komarev.com/ghpvc/?username=techshivvy&style=for-the-badge&color=6d41a1&label=STALKERS"
       alt="techshivvy-profile-views"
       height="30px"
     />
