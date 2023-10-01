@@ -26,7 +26,6 @@ TypeScript     5 mins          -------------------------   00.40 %
 <!--END_SECTION:waka-->
 
   </details>
-    
   <table>
     <tr>
       <td>
@@ -40,7 +39,7 @@ TypeScript     5 mins          -------------------------   00.40 %
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-techshivvys-projects.vercel.app/api/top-langs/?username=TechShivvy&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8" alt="Most Used Languages">
+        <img src="https://github-readme-stats-techshivvys-projects.vercel.app/api/top-langs/?username=TechShivvy&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=10" alt="Most Used Languages">
         <br>
         <img src="https://github-readme-stats-techshivvys-projects.vercel.app/api?username=TechShivvy&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile" alt="Stats">
       </td>
