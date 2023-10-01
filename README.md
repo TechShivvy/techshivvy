@@ -1,10 +1,3 @@
-<style>
-  @media (max-width: 768px) {
-    .mobile-only {
-      display: table-row; /* Display the second td as a new row on mobile */
-    }
-  }
-</style>
 <div align="center">
   <h1><br />Hey, I'm Shivi</h1>
 
@@ -39,10 +32,8 @@
         <img
           src="https://github-readme-stats-techshivvys-projects.vercel.app/api?username=TechShivvy&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
           alt="Stats"
-        />  
+        />
       </td>
-      </tr>
-      <tr class="mobile-only">
       <td>
         <img
           src="https://spotify-github-profile.vercel.app/api/view?uid=2gshy2wa8eeq8clpv8sgghh4p&cover_image=true&theme=default&show_offline=true&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
