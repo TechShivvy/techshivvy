@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👀<br />Hey, I'm Shivi!</h1>
+  <h1><br />Hey, I'm Shivi</h1>
 
   <details>
     <summary>wakatime</summary>
@@ -13,7 +13,7 @@
       <td>
         <img
           src="https://lanyard.kyrie25.me/api/776722539211653151?bg=transparent&gradient=DD6387-DD6387&waveSpotifyColor=DD6387&waveColor=DD6387"
-          alt="Tom's Lanyard Status"
+          alt="brokolee's Lanyard Status"
         />
       </td>
     </tr>
