@@ -40,7 +40,7 @@
       </td>
       <td>
       <img
-          src="https://spotify-github-profile.vercel.app/api/view?uid=2gshy2wa8eeq8clpv8sgghh4p&cover_image=true&theme=default&show_offline=true&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
+          src="https://spotify-github-profile.vercel.app/api/view?uid=2gshy2wa8eeq8clpv8sgghh4p&cover_image=true&theme=default&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
         />
         <!-- <img
           src="https://spotify-github-profile.vercel.app/api/view?uid=2gshy2wa8eeq8clpv8sgghh4p&cover_image=true&theme=default&show_offline=true&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
