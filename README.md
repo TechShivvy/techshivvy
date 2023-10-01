@@ -1,6 +1,6 @@
 <div align="center">
   <h1><br />Hey, I'm Shivi</h1>
-
+  ![views](https://komarev.com/ghpvc/?username=TechShivvy&style=flat-square&color=ff69b4)
   <details>
     <summary>wakatime</summary>
 
