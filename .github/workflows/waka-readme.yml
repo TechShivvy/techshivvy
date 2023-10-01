@@ -21,4 +21,5 @@ jobs:
           SHOW_TOTAL: true
           BLOCKS: ->
           CODE_LANG: lua
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           LANG_COUNT: 10
