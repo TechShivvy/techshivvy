@@ -7,8 +7,9 @@
     />
   <details>
     <summary>wakatime</summary>
+    <div align="center">
 
-<!--START_SECTION:waka-->
+  <!--START_SECTION:waka-->
 
 ```lua
 From: 30 September 2023 - To: 06 July 2024
@@ -27,7 +28,9 @@ Markdown         3 hrs 19 mins   -------------------------   01.53 %
 Bash             2 hrs 51 mins   -------------------------   01.32 %
 ```
 
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  </div>
+
   </details>
   <table>
     <tr>
