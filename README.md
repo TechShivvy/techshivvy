@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```lua
-From: 30 September 2023 - To: 17 October 2025
+From: 30 September 2023 - To: 18 October 2025
 
 Total Time: 231 hrs 18 mins
 
