@@ -89,4 +89,12 @@ Markdown         4 hrs 2 mins          -------------------------   01.52 %
         height="30"
       /> </a>
   </kbd>
+  <kbd>
+  <a href="https://steamcommunity.com/profiles/76561199580051637">
+      <img
+        src="https://img.shields.io/badge/Profile-171a21?logo=steam&logoColor=white&style=for-the-badge"
+        alt="My Steam Profile"
+        height="30"
+      /> </a>
+  </kbd>
 </div>
