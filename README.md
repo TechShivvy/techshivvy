@@ -56,12 +56,7 @@ Markdown         4 hrs 2 mins          -------------------------   01.52 %
   />
 </div>
 
-  <div align="center">
-    <img
-      src="https://github-readme-steam-status-techshivvys-projects.vercel.app/status/?steamid=76561199580051637&show_recent_game_bg=true"
-      alt="Shivi's Steam Status"
-    />
-  </div>
+
 
   <table>
     <tr>
