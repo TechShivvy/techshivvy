@@ -33,9 +33,24 @@ Markdown         4 hrs 2 mins          -------------------------   01.52 %
     <summary>steam</summary>
 
 <!-- steam-box-playtime start -->
+🎮 Steam playtime leaderboard
+```text
+🚓 Grand Theft Auto V Legacy        🕘 222 hrs 51 mins
+🎮 Split Fiction                    🕘 70 hrs 11 mins
+🎮 Watch_Dogs                       🕘 48 hrs 33 mins
+🎮 Grand Theft Auto V Enhanced      🕘 45 hrs 27 mins
+🎮 Prince of Persia: The Sands of Time 🕘 9 hrs 7 mins
+```
+<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
 
 <!-- steam-box-recent start -->
+🎮 Recently played Steam games
+```text
+🎮 Prince of Persia: The Sands of Time 🕘 9 hrs 7 mins
+🎮 Grand Theft Auto V Enhanced      🕘 45 hrs 27 mins
+```
+<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
 
   </details>
