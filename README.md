@@ -29,6 +29,16 @@ Markdown         4 hrs 2 mins          -------------------------   01.52 %
 
 <!--END_SECTION:waka-->
   </details>
+  <details>
+    <summary>steam</summary>
+
+<!-- steam-box-playtime start -->
+<!-- steam-box-playtime end -->
+
+<!-- steam-box-recent start -->
+<!-- steam-box-recent end -->
+
+  </details>
 <!--   <table>
     <tr>
       <td>
@@ -76,6 +86,14 @@ Markdown         4 hrs 2 mins          -------------------------   01.52 %
       <img
         src="https://img.shields.io/badge/Profile-1db954?logo=spotify&logoColor=white&style=for-the-badge"
         alt="My Spotify Profile"
+        height="30"
+      /> </a>
+  </kbd>
+  <kbd>
+  <a href="https://steamcommunity.com/profiles/76561199580051637">
+      <img
+        src="https://img.shields.io/badge/Profile-171a21?logo=steam&logoColor=white&style=for-the-badge"
+        alt="My Steam Profile"
         height="30"
       /> </a>
   </kbd>
