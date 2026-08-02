@@ -16,23 +16,12 @@ jobs:
     env:
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
-      UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
-      STEAM_OPTION: ALLTIME_AND_RECENT
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
-      - name: Set up Go
-        uses: actions/setup-go@v5
-        with:
-          go-version: "1.22"
-      - name: Build steam-box
-        run: |
-          git clone --depth 1 https://github.com/torresflo/steam-box-for-readme.git "$RUNNER_TEMP/steam-box"
-          cd "$RUNNER_TEMP/steam-box"
-          go build -o "$RUNNER_TEMP/steam" ./cmd/box/main.go
-      - name: Run steam-box
-        run: "$RUNNER_TEMP/steam"
+      - name: Run steam-leaderboard
+        run: node utils/steam-leaderboard.js
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
