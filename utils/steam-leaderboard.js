@@ -15,7 +15,59 @@ if (!STEAM_API_KEY || !STEAM_ID) {
 }
 
 const EMOJI = {
+  // Famous titles
+  70: "λ ", // Half-Life
+  220: "λ² ", // Half-Life 2
+  400: "🧪 ", // Portal
+  440: "🎩 ", // Team Fortress 2
+  500: "🧟 ", // Left 4 Dead
+  550: "🧟 ", // Left 4 Dead 2
+  570: "⚔️ ", // Dota 2
+  620: "🧪 ", // Portal 2
+  730: "🔫 ", // Counter-Strike 2 / CS:GO
+  8930: "🌏 ", // Sid Meier's Civilization V
+  105600: "🌍 ", // Terraria
+  250900: "🎲 ", // The Binding of Isaac: Rebirth
+  252950: "🚀 ", // Rocket League
+  269950: "✈️ ", // X-Plane 11
   271590: "🚓 ", // Grand Theft Auto V Legacy
+  359550: "🔫 ", // Tom Clancy's Rainbow Six Siege
+  391540: "❤️ ", // Undertale
+  413150: "🌾 ", // Stardew Valley
+  431960: "💻 ", // Wallpaper Engine
+  489830: "⚔️ ", // The Elder Scrolls V: Skyrim
+  578080: "🍳 ", // PUBG
+  892970: "🪓 ", // Valheim
+  945360: "🕵️‍♂️ ", // Among Us
+  1091500: "🦾 ", // Cyberpunk 2077
+  1097150: "🎪 ", // Fall Guys
+  1145360: "🔥 ", // Hades
+  1174180: "🤠 ", // Red Dead Redemption 2
+  1240440: "🛡️ ", // Halo Infinite
+  1245620: "💍 ", // Elden Ring
+  1250410: "🛩️ ", // Microsoft Flight Simulator
+  1086940: "🗡️ ", // Baldur's Gate 3
+  2379780: "🃏 ", // Balatro
+  275850: "🪐 ", // No Man's Sky
+  2807960: "🔫 ", // Battlefield 6
+
+  // Own library
+  13600: "⏳ ", // Prince of Persia: The Sands of Time
+  243470: "🕶️ ", // Watch_Dogs
+  287450: "🏛️ ", // Rise of Nations: Extended Edition
+  292030: "🐺 ", // The Witcher 3: Wild Hunt
+  304430: "🕳️ ", // INSIDE
+  447040: "🕶️ ", // Watch_Dogs 2
+  960910: "🌧️ ", // Heavy Rain
+  960990: "👻 ", // Beyond: Two Souls
+  1030300: "🐛 ", // Hollow Knight: Silksong
+  1222140: "🤖 ", // Detroit: Become Human
+  1222700: "🤝 ", // A Way Out
+  1931770: "📜 ", // Chants of Sennaar
+  2001120: "🌗 ", // Split Fiction
+  2138710: "🥋 ", // Sifu
+  2239550: "🕶️ ", // Watch Dogs: Legion
+  2567870: "⛓️ ", // Chained Together
   3240220: "🚓 ", // Grand Theft Auto V Enhanced
 };
 const DEFAULT_EMOJI = "🎮 ";
