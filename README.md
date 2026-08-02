@@ -29,6 +29,16 @@ Markdown         4 hrs 2 mins          -------------------------   01.52 %
 
 <!--END_SECTION:waka-->
   </details>
+  <details>
+    <summary>steam</summary>
+
+<!-- steam-box-playtime start -->
+<!-- steam-box-playtime end -->
+
+<!-- steam-box-recent start -->
+<!-- steam-box-recent end -->
+
+  </details>
 <!--   <table>
     <tr>
       <td>
@@ -46,7 +56,12 @@ Markdown         4 hrs 2 mins          -------------------------   01.52 %
   />
 </div>
 
-
+  <div align="center">
+    <img
+      src="https://github-readme-steam-status-techshivvys-projects.vercel.app/status/?steamid=76561199580051637&show_recent_game_bg=true"
+      alt="Shivi's Steam Status"
+    />
+  </div>
 
   <table>
     <tr>
