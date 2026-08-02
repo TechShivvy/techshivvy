@@ -42,14 +42,35 @@ function displayWidth(str) {
   return w;
 }
 
-function formatRows(games) {
+const BAR_LENGTH = 25; // matches the wakatime block's bar width, for visual parity
+
+function bar(pct) {
+  const filled = Math.min(BAR_LENGTH, Math.max(0, Math.round((pct / 100) * BAR_LENGTH)));
+  return ">".repeat(filled) + "-".repeat(BAR_LENGTH - filled);
+}
+
+function pad(str, width) {
+  return str + " ".repeat(Math.max(0, width - displayWidth(str)));
+}
+
+// Mirrors the wakatime block's grammar: name | time | proportional bar | percentage.
+// Percentage is each game's share of playtime_forever across the whole library
+// (grandTotalMinutes), the Steam equivalent of wakatime's "share of total coding time".
+function formatRows(games, grandTotalMinutes) {
   const rows = games.map((g) => ({
     name: emojiFor(g.appid) + g.name,
     time: fmtTime(g.playtime_forever),
+    pct: grandTotalMinutes > 0 ? (g.playtime_forever / grandTotalMinutes) * 100 : 0,
   }));
-  const width = Math.max(...rows.map((r) => displayWidth(r.name)));
+
+  const nameWidth = Math.max(...rows.map((r) => displayWidth(r.name))) + 2;
+  const timeWidth = Math.max(...rows.map((r) => displayWidth(r.time))) + 2;
+
   return rows
-    .map((r) => r.name + " ".repeat(width - displayWidth(r.name) + 1) + "🕘 " + r.time)
+    .map((r) => {
+      const pctStr = r.pct.toFixed(2).padStart(5, "0");
+      return pad(r.name, nameWidth) + pad(r.time, timeWidth) + bar(r.pct) + "   " + pctStr + " %";
+    })
     .join("\n");
 }
 
@@ -74,6 +95,7 @@ function replaceBlock(text, startTag, endTag, block) {
 
 async function main() {
   const owned = await steamApi("GetOwnedGames", { include_appinfo: 1 });
+  const grandTotalMinutes = owned.games.reduce((sum, g) => sum + g.playtime_forever, 0);
   const playtime = [...owned.games]
     .sort((a, b) => b.playtime_forever - a.playtime_forever)
     .slice(0, 5);
@@ -87,14 +109,14 @@ async function main() {
     text,
     "<!-- steam-box-playtime start -->",
     "<!-- steam-box-playtime end -->",
-    "🎮 Steam playtime leaderboard\n```lua\n" + formatRows(playtime) + "\n```"
+    "🎮 Steam playtime leaderboard\n```lua\n" + formatRows(playtime, grandTotalMinutes) + "\n```"
   );
 
   text = replaceBlock(
     text,
     "<!-- steam-box-recent start -->",
     "<!-- steam-box-recent end -->",
-    "🎮 Recently played Steam games\n```lua\n" + formatRows(recent) + "\n```"
+    "🎮 Recently played Steam games\n```lua\n" + formatRows(recent, grandTotalMinutes) + "\n```"
   );
 
   fs.writeFileSync(MARKDOWN_FILE, text);
