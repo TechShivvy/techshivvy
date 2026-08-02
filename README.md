@@ -34,23 +34,21 @@ Markdown         4 hrs 2 mins          -------------------------   01.52 %
 
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
-```text
-🚓 Grand Theft Auto V Legacy        🕘 222 hrs 51 mins
-🎮 Split Fiction                    🕘 70 hrs 11 mins
-🎮 Watch_Dogs                       🕘 48 hrs 33 mins
-🎮 Grand Theft Auto V Enhanced      🕘 45 hrs 27 mins
-🎮 Prince of Persia: The Sands of Time 🕘 9 hrs 7 mins
+```lua
+🚓 Grand Theft Auto V Legacy            222 hrs 51 mins  >>>>>>>>>>>>>>-----------   55.36 %
+🌗 Split Fiction                        70 hrs 11 mins   >>>>---------------------   17.44 %
+🕶️ Watch_Dogs                           48 hrs 33 mins   >>>----------------------   12.06 %
+🚓 Grand Theft Auto V Enhanced          45 hrs 27 mins   >>>----------------------   11.29 %
+⏳ Prince of Persia: The Sands of Time  9 hrs 7 mins     >------------------------   02.26 %
 ```
-<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
 
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
-```text
-🎮 Prince of Persia: The Sands of Time 🕘 9 hrs 7 mins
-🎮 Grand Theft Auto V Enhanced      🕘 45 hrs 27 mins
+```lua
+⏳ Prince of Persia: The Sands of Time  9 hrs 7 mins    >------------------------   02.26 %
+🚓 Grand Theft Auto V Enhanced          45 hrs 27 mins  >>>----------------------   11.29 %
 ```
-<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
 
   </details>
@@ -70,8 +68,6 @@ Markdown         4 hrs 2 mins          -------------------------   01.52 %
     alt="BroKOLee's Discord Presence"
   />
 </div>
-
-
 
   <table>
     <tr>
