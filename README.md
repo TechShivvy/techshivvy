@@ -35,19 +35,19 @@ Other            6 hrs 3 mins          >------------------------   02.11 %
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```lua
-🚓 Grand Theft Auto V Legacy    222 hrs 51 mins  >>>>>>>>>>>>>------------   51.26 %
-🌗 Split Fiction                70 hrs 11 mins   >>>>---------------------   16.14 %
-🚓 Grand Theft Auto V Enhanced  53 hrs 8 mins    >>>----------------------   12.22 %
-🕶️ Watch_Dogs                   48 hrs 33 mins   >>>----------------------   11.17 %
-🎮 It Takes Two                 22 hrs 14 mins   >------------------------   05.11 %
+🚓 Grand Theft Auto V Legacy    222 hrs 51 mins  >>>>>>>>>>>>>------------   50.69 %
+🌗 Split Fiction                70 hrs 11 mins   >>>>---------------------   15.96 %
+🚓 Grand Theft Auto V Enhanced  58 hrs 4 mins    >>>----------------------   13.21 %
+🕶️ Watch_Dogs                   48 hrs 33 mins   >>>----------------------   11.04 %
+🎮 It Takes Two                 22 hrs 14 mins   >------------------------   05.06 %
 ```
 <!-- steam-box-playtime end -->
 
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```lua
-⏳ Prince of Persia: The Sands of Time  10 hrs 59 mins  >------------------------   02.53 %
-🚓 Grand Theft Auto V Enhanced          53 hrs 8 mins   >>>----------------------   12.22 %
+🚓 Grand Theft Auto V Enhanced          58 hrs 4 mins   >>>----------------------   13.21 %
+⏳ Prince of Persia: The Sands of Time  10 hrs 59 mins  >------------------------   02.50 %
 🥋 Sifu                                 0 hrs 26 mins   -------------------------   00.10 %
 ```
 <!-- steam-box-recent end -->
