@@ -46,9 +46,8 @@ Other            7 hrs 11 mins         >------------------------   02.32 %
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```lua
-🚓 Grand Theft Auto V Enhanced          58 hrs 23 mins  >>>----------------------   13.27 %
-⏳ Prince of Persia: The Sands of Time  10 hrs 59 mins  >------------------------   02.50 %
-🥋 Sifu                                 0 hrs 26 mins   -------------------------   00.10 %
+🚓 Grand Theft Auto V Enhanced  58 hrs 23 mins  >>>----------------------   13.27 %
+🥋 Sifu                         0 hrs 26 mins   -------------------------   00.10 %
 ```
 <!-- steam-box-recent end -->
 
