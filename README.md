@@ -47,7 +47,6 @@ Other            7 hrs 15 mins         >------------------------   02.29 %
 🎮 Recently played Steam games
 ```lua
 🚓 Grand Theft Auto V Enhanced  58 hrs 23 mins  >>>----------------------   13.27 %
-🥋 Sifu                         0 hrs 26 mins   -------------------------   00.10 %
 ```
 <!-- steam-box-recent end -->
 
